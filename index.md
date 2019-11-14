@@ -1,3 +1,3 @@
 # Introduction
 
-Hello world. My name is Jon Vex. I am from Earth.
+Hello world. My name is Jon Vex. I am from China.
