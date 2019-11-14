@@ -1,3 +1,3 @@
 # Introduction
 
-Hello world. My name is Jon. I am from Mars.
+Hello world. My name is Jon Vex. I am from Mars.
